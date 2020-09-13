@@ -1,0 +1,16 @@
+.header{
+    float: left;
+    height: auto;
+    width: 100%;
+    background: #D3D3D3;
+    height: auto;
+    border-radius: 5px 5px 0 0;
+    word-spacing: 270px;
+}
+body{
+    background-image: linear-gradient(to right,#abbaab,#ffffff);
+}
+footer{
+    text-align: center;
+    color: black;
+}
